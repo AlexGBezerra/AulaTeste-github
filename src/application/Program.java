@@ -20,7 +20,7 @@ public class Program {
 		
 		System.out.println();
 		
-		System.out.println("Obrigado Deus pelo dom da vida ");
+		System.out.println("Tudo posso naquele que me fortalece ");
 		
 		
 		
